@@ -1,26 +1,26 @@
 home:
-  profile_name: ADRIANO <span>SMITH</span>
+  profile_name: Nader <span>Lobandi</span>
   profile_img: "/assets/img/slider/1.jpg"
-  bio: "Creative Photographer based in New York and happy to travel all over Europe to capture photos."
+  bio: "A Ph.D. interested in the developing biosensing paltforms and deploying data science for diagnostics."
   social:
-    facebook: "http://facebook.com"
-    twitter: "http://twitter.com"
-    instagram: "http://instagram.com"
-    dribbble: "http://dribble.com"
-    tiktok: "http://tiktok.com"
+    LinkedIn: "www.linkedin.com/in/naderlobandi"
+    facebook: "https://m.facebook.com/nader.lobandi.1"
+    #twitter: "http://twitter.com"
+    instagram: "https://instagram.com/nader.lobandi?utm_medium=copy_link"
+    #tiktok: "http://tiktok.com"
 
 about:
-  title: "Adriano Smith & <span>Photographer</span>"
-  description: "Hello, I am a creative photographer based in New York and happy to travel all over Europe to capture your big day in candid and authentic photos. I will create a lasting memory of the people."
+  title: "Nader Lobandi & <span>Research Assistant</span>"
+  description: "Hello, I am a Ph.D. student in electrical engineering with experience in designing, simulating and fabricating micro-electro-mechanical systems and biosensors. Working in a highly collaborative lab with interdisciplinary researchers allowed me to develop my interpersonal and communication abilities. Passionate about translating knowledge and experience into real-world biodevices to overcome limitations in healthcare, diagnostics, and therapeutics."
   img_src: "/assets/img/slider/1.jpg"
   learn_more: Learn More
   lm_url: #
-  birthday: "01.07.1990"
-  age: 31
-  address: Ave 11, New York, USA
-  email: mail@gmail.com
-  phone: +77 022 177 05 05
-  study: Univercity of Texas
+  birthday: "12.29.1996"
+  age: 25
+  address: Boston, Massachusetts
+  email: lobandi.n@northeastern.edu
+  phone: +1 747 270 4363
+  study: Northeastern University 
   freelance: Available
   photography:
       - title: Wedding Photography
@@ -31,11 +31,11 @@ about:
         expertise: 90
   languages:
       - title: English
-        expertise: 95
-      - title: Japanese
-        expertise: 85
+        expertise: Full proficiency
+      - title: Farsi
+        expertise: Native 
       - title: Arabic
-        expertise: 90
+        expertise: Basic proficiency
   project_completed: 777+
   happy_clients: 3k+
   lines_of_code: 9k+
