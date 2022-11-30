@@ -1,2 +1,2 @@
-# Nader lobandi
+# Nader Lobandi
 Nader Lobandi | Personal Website
