@@ -7,17 +7,17 @@
 ####################################################
 
 # Site settings
-title: "Tokyo - Portfolio Theme"
-email: "themeix@gmail.com"
+title: "Nader Lobandi"
+email: "Lobandi.n@northeastern.edu"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.linkedin.com/in/naderlobandi" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/header-brand.png
-description: "Tokyo is a responsive Jekyll template for your personal portfolio website"
-keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
-mailchimp: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884"
-facebook: https://facebook.com/themeix
-instagram: https://instagram.com/themeix
-twitter: https://twitter.com/themeix_com
+description: "Nader Lobandi's personal website"
+keywords: "Nader, Lobandi, NADER1196, Northeastern, Data science, Boston, Massachusetts"
+# mailchimp: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884"
+facebook: https://m.facebook.com/nader.lobandi.1
+instagram: https://instagram.com/nader.lobandi?utm_medium=copy_link
+# twitter: https://twitter.com/themeix_com
 
 # Build settings
 markdown: kramdown
